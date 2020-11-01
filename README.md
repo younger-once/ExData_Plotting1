@@ -1,3 +1,14 @@
+## Key Files
+The following R scripts were used to produce four plots using R base graphics:  
+  
+* `download_data_set.R` - download and unzip text file 
+* `read_file_function.R` - script to read and transform data file
+*  `plot1.R` - create and save plot1.png file
+*  `plot2.R` - create and save plot2.png file
+*  `plot3.R` - create and save plot3.png file
+*  `plot4.R` - create and save plot4.png file
+
+
 ## Introduction
 
 This assignment uses data from
